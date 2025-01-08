@@ -14,3 +14,6 @@ c) https://github.com/Shipra-Kumar/Tableau_Executve_Sales_Performance_Dashboard_
 d) https://github.com/Shipra-Kumar/Tableau_WHO_Covid_19_Dashboard_Viz
 e) https://github.com/Shipra-Kumar/Tableau_London_Bus_Safety_Viz
 f) https://github.com/Shipra-Kumar/Tableau_Alcohol_Consumption_Viz
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shipra-Kumar&show_icons=true&theme=radical)
+
