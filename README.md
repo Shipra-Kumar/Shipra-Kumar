@@ -1,57 +1,84 @@
-                                                                      
-<h2 align="center">Project Portfolio</h2>
+# Portfolio Projects
 
 ---
 
-## 1. Sales Data Analysis through Python & SQL
-**Repo**: [Python_SQL_Sales_Data_Analysis_Project](https://github.com/Shipra-Kumar/Python_SQL_Sales_Data_Analysis_Project)
-
-**Project Objectives**  
-- Perform exploratory data analysis (EDA) to uncover sales trends and patterns  
-- Utilize SQL queries to extract meaningful insights from the dataset  
-- Combine Python’s data visualization capabilities with SQL's querying power for a robust analytical workflow  
-
-**Features**  
-- **SQL Analysis**  
-  - Month-over-month sales growth comparison for 2022 and 2023  
-  - Identification of the top 5 highest-selling products in each region  
-  - Determination of the category with the highest sales for each month  
-  - Analysis of the sub-category with the highest profit growth in 2023 compared to 2022
-
-- **Python Integration**  
-  - Data cleaning and preprocessing  
-  - Visualization of SQL query results for better understanding and presentation  
-  - Use of Pandas, Matplotlib, and Seaborn for data manipulation and visual storytelling  
-
-**Technology**  
-- **Languages**: Python, SQL  
-- **Libraries**: Pandas, Matplotlib, Seaborn, SQLAlchemy  
-- **Database**: SQLite  
+## 1) Python & SQL: Sales Data Analysis 
+**Repo**: [Python_SQL_Sales_Data_Analysis_Project](https://github.com/Shipra-Kumar/Python_SQL_Sales_Data_Analysis_Project)  
+**Description**: Analyzed sales data using SQL queries and Python libraries (Pandas, Matplotlib, Seaborn) to uncover trends, compare month-over-month sales growth, identify top-selling products, and determine the most profitable sub-categories.  
+**Skills**: Data cleaning, EDA, SQL analysis, Python scripting, data visualization, profit-growth analysis  
+**Technology**: Python, SQL, Pandas, Matplotlib, Seaborn, SQLAlchemy, SQLite  
+**Results**: Provided actionable insights on sales trends and profit drivers, facilitating data-driven recommendations
 
 ---
 
-## 2. Additional SQL Project
-**Repo**: [SQL_Music_Store_Analysis](https://github.com/Shipra-Kumar/SQL_Music_Store_Analysis)
-
-*(Add a brief summary, objectives, or key insights about this project if desired.)*
-
----
-
-## 3. Excel Projects
-
-### a) [Australian State Waste Management System Dashboard](https://github.com/Shipra-Kumar/Excel_Australian_State_Waste_Management_System_Dashboard)
-*(Add a brief project description.)*
-
-### b) [Bike Sales Analysis](https://github.com/Shipra-Kumar/Excel_Bike_Sales_Analysis)
-*(Add a brief project description.)*
+## 2) SQL: Music Store Sales Analysis 
+**Repo**: [SQL_Music_Store_Analysis](https://github.com/Shipra-Kumar/SQL_Music_Store_Analysis)  
+**Description**: Explored music store data using SQL to assess best-selling tracks, revenue trends, and customer purchasing patterns, enabling strategic decision-making for music distribution.  
+**Skills**: EDA, SQL queries, data extraction, revenue analysis, database design fundamentals  
+**Technology**: SQL, SQLite  
+**Results**: Uncovered valuable sales insights, including top tracks and customer segments, for optimized marketing strategies
 
 ---
 
-## 4. Tableau Projects
+## 3) Excel: Australian State Waste Management System Dashboard
+**Repo**: [Excel_Australian_State_Waste_Management_System_Dashboard](https://github.com/Shipra-Kumar/Excel_Australian_State_Waste_Management_System_Dashboard)  
+**Description**: Built an Excel dashboard to track waste management trends, compare year-over-year performance, and highlight potential improvements in recycling and disposal processes.  
+**Skills**: Excel dashboard creation, data filtering, KPI definition, graphical reporting  
+**Results**: Delivered an interactive solution aiding policy-makers and stakeholders to understand waste collection efficiencies and target improvements
 
-### a) [Sales Performance Dashboard Viz](https://github.com/Shipra-Kumar/Tableau_Sales_Performance_Dashboard_Viz)
-### b) [The Startup Quadrant Viz](https://github.com/Shipra-Kumar/Tableau_The_Startup_Quadrant_Viz)
-### c) [Executive Sales Performance Dashboard Viz](https://github.com/Shipra-Kumar/Tableau_Executve_Sales_Performance_Dashboard_Viz)
-### d) [WHO Covid-19 Dashboard Viz](https://github.com/Shipra-Kumar/Tableau_WHO_Covid_19_Dashboard_Viz)
-### e) [London Bus Safety Viz](https://github.com/Shipra-Kumar/Tableau_London_Bus_Safety_Viz)
-### f) [Alcohol Consumption Viz](https://github.com/Shipra-Kumar/Tableau_Alcohol_Consumption_Viz)
+---
+
+## 4) Excel: Bike Sales Analysis
+**Repo**: [Excel_Bike_Sales_Analysis](https://github.com/Shipra-Kumar/Excel_Bike_Sales_Analysis)  
+**Description**: Developed an Excel-based analysis to evaluate bike sales by region and demographics, uncover seasonal trends, and highlight revenue opportunities through data-driven insights.  
+**Skills**: Excel pivot tables, data visualization, trend analysis, basic statistics  
+**Results**: Equipped stakeholders with an actionable overview of sales distribution and factors influencing buying behavior
+
+---
+
+## 5) Tableau: Sales Performance Dashboard 
+**Repo**: [Tableau_Sales_Performance_Dashboard_Viz](https://github.com/Shipra-Kumar/Tableau_Sales_Performance_Dashboard_Viz)  
+**Description**: Created an interactive Tableau dashboard to visualize sales performance, profit margins, and growth by region and product line, enhancing quick data-driven decisions.  
+**Skills**: Dashboard design, data visualization, KPI definition, interactive filtering  
+**Results**: Delivered a clear, executive-friendly view of regional and product-specific performance metrics for fast decision-making
+
+---
+
+## 6) Tableau: The Startup Quadrant Viz
+**Repo**: [Tableau_The_Startup_Quadrant_Viz](https://github.com/Shipra-Kumar/Tableau_The_Startup_Quadrant_Viz)  
+**Description**: Mapped startup performance, funding, and industry distribution to identify high-potential investment opportunities using an easy-to-digest visual format.  
+**Skills**: Data storytelling, KPI identification, quadrant charting, visual analytics  
+**Results**: Enabled a clear comparison of startup performance and funding requirements, aiding investors and entrepreneurs
+
+---
+
+## 7) Tableau: Executive Sales Performance Dashboard 
+**Repo**: [Tableau_Executve_Sales_Performance_Dashboard_Viz](https://github.com/Shipra-Kumar/Tableau_Executve_Sales_Performance_Dashboard_Viz)  
+**Description**: Summarized top-level sales metrics for executives, focusing on revenue drivers, high-growth regions, and profit patterns in an interactive Tableau dashboard.  
+**Skills**: Executive-level reporting, KPI selection, advanced charting, visual best practices  
+**Results**: Provided a concise, high-level overview of crucial sales data, simplifying complex metrics for timely leadership decisions
+
+---
+
+## 8) Tableau: WHO Covid-19 Dashboard 
+**Repo**: [Tableau_WHO_Covid_19_Dashboard_Viz](https://github.com/Shipra-Kumar/Tableau_WHO_Covid_19_Dashboard_Viz)  
+**Description**: Tracked global and regional COVID-19 statistics—cases, recoveries, mortality rates—enabling real-time monitoring and informed policy actions.  
+**Skills**: Data mapping, comparative analytics, filtering, global data integration  
+**Results**: Equipped healthcare stakeholders with timely insights on pandemic progression and areas needing immediate focus
+
+---
+
+## 9) Tableau: London Bus Safety Dashboard
+**Repo**: [Tableau_London_Bus_Safety_Viz](https://github.com/Shipra-Kumar/Tableau_London_Bus_Safety_Viz)  
+**Description**: Analyzed London bus safety incidents, pinpointing borough-level trends and high-risk routes, helping guide safety improvement measures.  
+**Skills**: Geospatial visualization, data stratification, interactive mapping  
+**Results**: Identified key locations for safety interventions and resource allocation to reduce incidents
+
+---
+
+## 10) Tableau: Global Alcohol Consumption Viz
+**Repo**: [Tableau_Alcohol_Consumption_Viz](https://github.com/Shipra-Kumar/Tableau_Alcohol_Consumption_Viz)  
+**Description**: Visualized global alcohol consumption patterns by geography and category to highlight areas with notable trends and potential health implications.  
+**Skills**: Data segmentation, geospatial analysis, correlation insights, data storytelling  
+**Results**: Showcased consumption hotspots and provided a framework for targeted health policy-making
+
