@@ -1,4 +1,4 @@
-                                                                                      #Project_Portfolio
+                                                                   # Project Portfolio
 
 **Sales Data Analysis through Python & SQL:** https://github.com/Shipra-Kumar/Python_SQL_Sales_Data_Analysis_Project  
 **Project Objectives:** To perform exploratory data analysis (EDA) to uncover sales trends and patterns. To utilize SQL queries to extract meaningful insights from the dataset. To combine Python’s data visualization capabilities with SQL's querying power for a robust analytical workflow.  
