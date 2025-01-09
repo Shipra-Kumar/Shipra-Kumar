@@ -1,4 +1,4 @@
-# Portfolio Projects
+<h2 align="center">Project Portfolio</h2>
 
 ---
 
