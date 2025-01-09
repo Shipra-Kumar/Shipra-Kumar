@@ -3,7 +3,7 @@
 ---
 
 ### Python & SQL: Sales Data Analysis 
-**Repo**: [Python_SQL_Sales_Data_Analysis_Project](https://github.com/Shipra-Kumar/Python_SQL_Sales_Data_Analysis)  
+**Repo**: [Python_SQL_Sales_Data_Analysis](https://github.com/Shipra-Kumar/Python_SQL_Sales_Data_Analysis)  
 **Description**: Analyzed sales data using SQL queries and Python libraries (Pandas, Matplotlib, Seaborn) to uncover trends, compare month-over-month sales growth, identify top-selling products, and determine the most profitable sub-categories.  
 **Skills**: Data cleaning, EDA, SQL analysis, Python scripting, data visualization, profit-growth analysis  
 **Technology**: Python, SQL, Pandas, Matplotlib, Seaborn, SQLAlchemy, SQLite  
