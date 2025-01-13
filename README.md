@@ -2,10 +2,10 @@
 
 ---
 ### Python: Walmart & Online Retail Store Capstone Project
-**Repo**: [Python_Capstone Project](https://github.com/Shipra-Kumar/Python_Capstone_Project) 
-**Description**: Conducted time-series sales forecasting and customer segmentation using Python and SQL. Forecasted weekly sales for Walmart stores, analyzed customer purchasing behavior in an online retail dataset, and segmented customers using RFM analysis and K-Means clustering to identify high-value customers and actionable marketing strategies.
-**Skills**: Time-series forecasting, RFM analysis, clustering, data cleaning, EDA, Python scripting, data visualization
-**Technology**: Python, SQL, Pandas, Matplotlib, Seaborn, Scikit-learn, Prophet, SQLAlchemy
+**Repo**: [Python_Capstone Project](https://github.com/Shipra-Kumar/Python_Capstone_Project)   
+**Description**: Conducted time-series sales forecasting and customer segmentation using Python and SQL. Forecasted weekly sales for Walmart stores, analyzed customer purchasing behavior in an online retail dataset, and segmented customers using RFM analysis and K-Means clustering to identify high-value customers and actionable marketing strategies.  
+**Skills**: Time-series forecasting, RFM analysis, clustering, data cleaning, EDA, Python scripting, data visualization  
+**Technology**: Python, SQL, Pandas, Matplotlib, Seaborn, Scikit-learn, Prophet, SQLAlchemy  
 **Results**: Delivered accurate sales forecasts and customer segments through a concise report, facilitating optimized inventory management and targeted marketing strategies for enhanced profitability and operational efficiency. 
 
 ### Python & SQL: Sales Data Analysis 
