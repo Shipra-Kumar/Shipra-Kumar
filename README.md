@@ -1,4 +1,4 @@
-**[My Resume]**(https://drive.google.com/file/d/1tE33IjWc-QzTUPm3Dklqx3uQVz9orhEv/view?usp=sharing)
+**[My Resume](https://drive.google.com/file/d/1tE33IjWc-QzTUPm3Dklqx3uQVz9orhEv/view?usp=sharing)**
 <h2 align="center">Project Portfolio</h2>
 
 ---
